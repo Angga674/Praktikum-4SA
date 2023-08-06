@@ -168,7 +168,7 @@ print("+----+-----------------------+--------+--------+-------+-------+---------
 ```
 ## Screenshot
 
-![App Screenshot](https://github.com/Angga674/Praktikum-4SA/blob/main/Gambar/SS%20Latihan%201.png)
+![App Screenshot](https://github.com/Angga674/Praktikum-4SA/blob/main/Gambar/SS%20praktikum%20pertemuan%206.png)
 
 
 
